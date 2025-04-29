@@ -1,2 +1,2 @@
 # GPU-Project
-Santiago Alex Henry
+Santiago Alex Yue Henry
